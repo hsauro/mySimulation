@@ -5,7 +5,7 @@
         <annotation>
             <listOfLayouts>
                 <layout id="GrapheneLayout">
-                    <dimensions width="392" height="251"/>
+                    <dimensions width="513" height="381"/>
                     <annotation>
                         <listOfRenderInformation
                             xmlns="http://projects.eml.org/bcb/sbml/render/level2">
@@ -87,7 +87,7 @@
                         <speciesGlyph id="sGlyph-S3" species="S3">
                             <boundingBox>
                                 <dimensions height="30" width="80"/>
-                                <position x="392" y="251"/>
+                                <position x="513" y="381"/>
                             </boundingBox>
                         </speciesGlyph>
                     </listOfSpeciesGlyphs>
@@ -139,7 +139,7 @@
                         <reactionGlyph id="rGlyph-R2" reaction="R2">
                             <boundingBox>
                                 <dimensions height="0" width="0"/>
-                                <position x="309.5" y="239.5"/>
+                                <position x="370" y="304.5"/>
                             </boundingBox>
                             <listOfSpeciesReferenceGlyphs>
                                 <speciesReferenceGlyph
@@ -181,7 +181,7 @@
                         <textGlyph id="tGlyph-S3" graphicalObject="sGlyph-S3" text="S3">
                             <boundingBox>
                                 <dimensions height="30" width="80"/>
-                                <position x="392" y="251"/>
+                                <position x="513" y="381"/>
                             </boundingBox>
                         </textGlyph>
                     </listOfTextGlyphs>
